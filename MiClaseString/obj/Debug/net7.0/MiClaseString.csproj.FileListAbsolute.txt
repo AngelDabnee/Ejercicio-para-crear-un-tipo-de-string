@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\MiClaseString\MiClaseString\bin\Debug\net7.0\MiClaseString.exe
+C:\Users\master\source\repos\MiClaseString\MiClaseString\bin\Debug\net7.0\MiClaseString.deps.json
+C:\Users\master\source\repos\MiClaseString\MiClaseString\bin\Debug\net7.0\MiClaseString.runtimeconfig.json
+C:\Users\master\source\repos\MiClaseString\MiClaseString\bin\Debug\net7.0\MiClaseString.dll
+C:\Users\master\source\repos\MiClaseString\MiClaseString\bin\Debug\net7.0\MiClaseString.pdb
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.AssemblyInfo.cs
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.dll
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\refint\MiClaseString.dll
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.pdb
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\MiClaseString.genruntimeconfig.cache
+C:\Users\master\source\repos\MiClaseString\MiClaseString\obj\Debug\net7.0\ref\MiClaseString.dll
